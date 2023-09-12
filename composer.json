@@ -1,0 +1,12 @@
+{
+    "name": "cbrophy/phpenny",
+    "description": "A PHP app for expense tracking.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
